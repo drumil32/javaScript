@@ -1,4 +1,4 @@
-
+// for in loop is useful to travers whole loop
 
 // OBJECT -> group of key : value pair
 let temp = {
