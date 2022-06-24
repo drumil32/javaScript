@@ -1,0 +1,13 @@
+
+function add(a,b){}
+here a,b is know as paramenters
+
+add(a,b); => here a,b is known as arguments
+when we call a function that process is known as function invokation
+
+in javaScript functions are known as first class citizens MEANS => you can create functions as variables in JS
+example:-
+let add = function(a,b){
+  return a+b;
+}
+
