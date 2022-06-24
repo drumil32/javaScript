@@ -4,6 +4,7 @@ function sayHi(name){
 }
 
 // this is also known as function expression
+// this is also known as annonymous function
 let add = function(a,b){
     return a+b;
 }
