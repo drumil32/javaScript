@@ -11,3 +11,27 @@ let add = function(a,b){
   return a+b;
 }
 
+--> in js there is nothing like function overloading.
+// function fun(){
+//     console.log('soidnf');
+//     console.log(arguments);
+// }
+// function fun(a,b){
+//     return a+b;
+// }
+
+// functions have one array name arguments
+// which cantain all arguments which we pass when we call this function
+
+----> diffrence between function expression and function decleration
+// function expression -> when you are creating annonymous function and asing it to the variable this is known as function expressing
+// var example = function(){
+//     console.log(" i am a example");
+// }
+// // // function decleration
+// function exOfFunDecl(){
+//     console.log("i am just example of funciton declartion");
+// }
+
+
+declaration of variables and function are hoisted not variable assigning
